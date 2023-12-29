@@ -496,9 +496,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vndservicemanager
 
-# Viper
-$(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
-
 # Wi-Fi
 PRODUCT_PACKAGES += \
     android.hardware.wifi-service \

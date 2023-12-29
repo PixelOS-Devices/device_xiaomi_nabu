@@ -12,4 +12,10 @@
         <item>com.google.android.as/com.google.intelligence.sense.ambientmusic.history.HistoryContentProvider</item>
         <item>com.google.android.as/com.google.intelligence.sense.ambientmusic.history.HistoryActivity</item>
     </string-array>
+
+    <!-- Boost Framework -->
+    <bool name="config_supportsBoostFramework">true</bool>
+
+    <!-- PIHooks: Spoof GMS as Pixel Tablet -->
+    <bool name="config_spoofasTablet">true</bool>
 </resources>
